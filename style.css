@@ -344,6 +344,9 @@ i {
     align-items: center;
     justify-content: center;
 }
+.pButton{
+    border: none;
+}
 
 .pButton img {
     height: 15px;
